@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">cnim_final</string>
+    <string name="cnim_name">Colegiul National \"Dr. Ioan Mesota\"</string>
+    <!-- Drawer Open/Close -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="schedule_time">Schedule Time!</string>
+    <string name="orar">Orar</string>
+    <string name="noutati">Noutati</string>
+    <string name="note">Note</string>
+    <string name="teze">Teze</string>
+    <string name="revenire_meniu">Revenire meniu</string>
+    <string name="vineri">Vineri</string>
+    <string name="marti">Marti</string>
+    <string name="luni">Luni</string>
+    <string name="miercuri">Miercuri</string>
+    <string name="joi">Joi</string>
+
+    <string-array name="materii">
+        <item>Romana</item>
+        <item>Matematica</item>
+        <item>Biologie</item>
+        <item>Fizica</item>
+    </string-array>
+
+</resources>

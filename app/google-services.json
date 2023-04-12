@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "56270105145",
+    "firebase_url": "https://mesotaschedule-default-rtdb.firebaseio.com",
+    "project_id": "mesotaschedule",
+    "storage_bucket": "mesotaschedule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56270105145:android:c1f3f23442f22681937be8",
+        "android_client_info": {
+          "package_name": "com.schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56270105145-vhns2q0dfqur6ts21h5j6m7mm4cj7umm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYISEZAZNPtXQIOgj1KtQ4BHgje3OJo1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56270105145-vhns2q0dfqur6ts21h5j6m7mm4cj7umm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56270105145:android:9d115371f313df0a937be8",
+        "android_client_info": {
+          "package_name": "com.test.cnim_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56270105145-vhns2q0dfqur6ts21h5j6m7mm4cj7umm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYISEZAZNPtXQIOgj1KtQ4BHgje3OJo1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56270105145-vhns2q0dfqur6ts21h5j6m7mm4cj7umm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/acasa"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_acasa"
+            android:icon="@drawable/ic_baseline_home"
+            android:title="     Acasa"
+            app:showAsAction="never"/>
+
+    </group>
+
+    <group
+        android:id="@+id/gen"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_orar"
+            android:icon="@drawable/ic_baseline_access_time"
+            android:title="     Orar"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/nav_note"
+            android:icon="@drawable/ic_baseline_playlist_add_check"
+            android:title="     Note"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/nav_teze"
+            android:icon="@drawable/ic_baseline_edit_calendar"
+            android:title="     Programare teze"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/nav_noutati"
+            android:icon="@drawable/ic_baseline_feed"
+            android:title="     Noutati"
+            app:showAsAction="never"/>
+
+    </group>
+
+    <group
+        android:id="@+id/set"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_baseline_settings"
+            android:title="     Preferinte aplicatie"
+            app:showAsAction="never"/>
+    </group>
+
+    <group
+        android:id="@+id/out"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_logout"
+            android:title="     Delogare"
+            app:showAsAction="never"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_baseline_question_mark"
+            android:title="     Despre aplicatie"
+            app:showAsAction="never"/>
+    </group>
+
+</menu>
