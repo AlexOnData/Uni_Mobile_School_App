@@ -1,4 +1,4 @@
-# trivial.app_cnim_final
+# Mobile School App (cnim_final)
 
 cnim_final (Java, Android Studio, FireBase SQL):
 - Mobile aplication project used in school for exam planning, grading, school announces etc.
