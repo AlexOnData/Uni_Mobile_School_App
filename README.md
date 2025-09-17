@@ -33,7 +33,7 @@ The purpose of this app is to help students and teachers manage school exams, gr
 ## ▶️ How to Run the App
 1. Clone the repository:
    ```
-   git clone https://github.com/username/cnim_final.git
+   git clone https://github.com/AlexOnData/Uni_Mobile_School_App.git
    ```
 2. Open the project in Android Studio.
 3. Configure Firebase (using the included **google-services.json** file).
